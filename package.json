@@ -1,6 +1,6 @@
 {
   "name": "electron-fetcher",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An axios-like HTTP client for the Electron main process built on net.fetch, with interceptors, concurrency limiting, timeouts and an opt-in response cache.",
   "keywords": [
     "electron",
